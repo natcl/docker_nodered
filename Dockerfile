@@ -6,7 +6,7 @@ MAINTAINER cpswan
 RUN npm install -g node-red
 
 #RUN mkdir /node-red
-#VOLUME ["/nod-red"]
+VOLUME ["/root/.node-red"]
 
 # expose port
 EXPOSE 1880
