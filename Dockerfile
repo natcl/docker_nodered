@@ -1,4 +1,4 @@
-FROM node:4.4.5
+FROM node:4.4.7
 
 MAINTAINER cpswan
 
